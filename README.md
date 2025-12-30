@@ -1,10 +1,6 @@
 # Customer-Insights-Dashboard
 Provides User's insights of their purchasing and subscription trends based on various factors using PowerBi Dashboard
 
-# 📊 Customer Insights Dashboard
-
-End-to-End Data Analytics Project | Python • SQL • Power BI
-
 ## 📌 Project Overview
 
 This project analyzes customer shopping behavior to derive actionable business insights related to revenue, customer segmentation, subscriptions, and product performance.
